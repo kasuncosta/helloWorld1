@@ -1,4 +1,10 @@
-from bottle import route, run, template
+from bottle import route, run, template, static_file
+
+@route('/static/<filename:path>')
+def index(filename):
+    return static_file(filename, root='./static/')
+    #return the directory to CSS file
+
 @route('/')
 def index():
     return template('index.tpl')

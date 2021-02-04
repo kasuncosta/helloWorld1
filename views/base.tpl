@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Bottle Todo</title>
-<link rel="stylesheet" type="text/css" href="main.css">
+<link rel="stylesheet" type="text/css" href="/static/css/main.css">
 </head>
 <body>
     <div id="wrapper">
@@ -20,7 +20,9 @@
         </div>
         <div id="selection">
             <h1>Todo Application</h1>
-            <p>TEST - {(BASE!!!} - Edited - version 1</p>
+            <br><br>
+            <p>This is not a dynamically driven web page. It is a static page.</p><br>
+            <p>TEST - {(BASE!!!} - Edited - version 1</p><br>
         </div>
         <div id="footer">
         &copy; 2015 - <a href="#" id="dev"><strong>Fandangle Productions</strong></a>
