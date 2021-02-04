@@ -21,8 +21,8 @@
         <div id="selection">
             <h1>Todo Application</h1>
             <br><br>
-            <p>This is not a dynamically driven web page. It is a static page.</p><br>
-            <p>TEST - {(BASE!!!} - Edited - version 1</p><br>
+            <p>This is not a dynamically driven web page. It is a static page. - from base tpl</p><br>
+            <p>{{!base}} <br>TEST - Edited - version 1</p><br>
         </div>
         <div id="footer">
         &copy; 2015 - <a href="#" id="dev"><strong>Fandangle Productions</strong></a>
