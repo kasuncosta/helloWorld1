@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfc43b26-3942-4dc4-966e-602e89c811de" name="Default Changelist" comment="bottle Framework - testing 2 - save changes in base tpl and index tpl" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nM88Ka7jhjgxWu01gXbbuoqJaI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/index.tpl" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc43b26-3942-4dc4-966e-602e89c811de" name="Default Changelist" comment="" />
+      <created>1611188439182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611188439182</updated>
+    </task>
+    <task id="LOCAL-00001" summary="IntelJ 1st commit">
+      <created>1611189948807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611189948807</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bottle Framework - Hello World - my first &quot;bottleMain.py&quot;">
+      <created>1611754795943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611754795943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bottle Framework - Hello World - my first &quot;bottleMain.py&quot;">
+      <created>1611757000900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611757000900</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bottle Framework - Hello World - my first &quot;bottleMain.py&quot;">
+      <created>1611793544277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611793544277</updated>
+    </task>
+    <task id="LOCAL-00005" summary="bottle Framework - testing 2">
+      <created>1611794174342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611794174342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Todo Template1 - index.html, main.css, svr.py - commited and Push to GitHub">
+      <created>1612372358821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612372358821</updated>
+    </task>
+    <task id="LOCAL-00007" summary="bottle Framework - testing 2">
+      <created>1612372509188</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612372509188</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bottle Framework - testing 2 - view folder added to GitHub">
+      <created>1612372688560</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612372688560</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bottle Framework - testing 2 - add comments to svr.py file">
+      <created>1612375184544</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612375184544</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bottle Framework - testing 2 - save changes in base tpl and index tpl">
+      <created>1612457258285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612457258286</updated>
+    </task>
+    <task id="LOCAL-00011" summary="folder renamed from helloWorl1 &gt;&gt; Bottle Framework">
+      <created>1612797929284</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612797929284</updated>
+    </task>
+    <task id="LOCAL-00012" summary="folder renamed from helloWorl1 &gt;&gt; Bottle Framework">
+      <created>1612797974400</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612797974400</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IntelJ 1st commit" />
+    <MESSAGE value="bottle Framework - Hello World - my first &quot;bottleMain.py&quot;" />
+    <MESSAGE value="Todo Template1 - index.html, main.css, svr.py - commited and Push to GitHub" />
+    <MESSAGE value="bottle Framework - testing 2" />
+    <MESSAGE value="bottle Framework - testing 2 - view folder added to GitHub" />
+    <MESSAGE value="bottle Framework - testing 2 - add comments to svr.py file" />
+    <MESSAGE value="bottle Framework - testing 2 - save changes in base tpl and index tpl" />
+    <MESSAGE value="folder renamed from helloWorl1 &gt;&gt; Bottle Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="folder renamed from helloWorl1 &gt;&gt; Bottle Framework" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
